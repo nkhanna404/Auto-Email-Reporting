@@ -1,0 +1,10 @@
+D:\Udutu\Projects\Master\ConsoleApps\LMSAutoReports\LMSAutoReports\bin\Release\LMSAutoReports.exe.config
+D:\Udutu\Projects\Master\ConsoleApps\LMSAutoReports\LMSAutoReports\bin\Release\LMSAutoReports.exe
+D:\Udutu\Projects\Master\ConsoleApps\LMSAutoReports\LMSAutoReports\bin\Release\LMSAutoReports.pdb
+D:\Udutu\Projects\Master\ConsoleApps\LMSAutoReports\LMSAutoReports\bin\Release\Newtonsoft.Json.dll
+D:\Udutu\Projects\Master\ConsoleApps\LMSAutoReports\LMSAutoReports\bin\Release\Newtonsoft.Json.xml
+D:\Udutu\Projects\Master\ConsoleApps\LMSAutoReports\LMSAutoReports\obj\Release\LMSAutoReports.csproj.AssemblyReference.cache
+D:\Udutu\Projects\Master\ConsoleApps\LMSAutoReports\LMSAutoReports\obj\Release\LMSAutoReports.csproj.CoreCompileInputs.cache
+D:\Udutu\Projects\Master\ConsoleApps\LMSAutoReports\LMSAutoReports\obj\Release\LMSAutoR.B242A5BB.Up2Date
+D:\Udutu\Projects\Master\ConsoleApps\LMSAutoReports\LMSAutoReports\obj\Release\LMSAutoReports.exe
+D:\Udutu\Projects\Master\ConsoleApps\LMSAutoReports\LMSAutoReports\obj\Release\LMSAutoReports.pdb
